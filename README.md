@@ -1,1 +1,1 @@
-Just a place to store random experiments and bits of code. 
+Just a place to store random experiments, bits of code, and ideas.
